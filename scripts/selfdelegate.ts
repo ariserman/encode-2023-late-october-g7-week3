@@ -1,5 +1,5 @@
 import { ethers } from "hardhat";
-import { Ballot, Ballot__factory } from "../typechain-types";
+import { MyToken, MyToken__factory } from "../typechain-types";
 import * as dotenv from "dotenv"; 
 dotenv.config();
 
